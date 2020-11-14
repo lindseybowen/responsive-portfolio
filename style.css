@@ -1,0 +1,16 @@
+body{
+    background-color:#000;
+}
+
+#topLevelNav{
+    background-color: #e3f2fd;
+}
+
+h1{
+    color:purple
+}
+
+#aboutMe{
+    background: black;
+    margin: 25px 85px 15px 10px;
+}
