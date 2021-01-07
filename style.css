@@ -1,9 +1,6 @@
-.parallax-container {
-     height: "100px";
-      }
 nav {
     background-color: white;
-    text-emphasis-color: black;
+    text-decoration-style: double;
 }
 footer {
     background-color: white;
