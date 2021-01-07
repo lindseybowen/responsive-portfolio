@@ -1,5 +1,11 @@
-
-    .parallax-container {
-        height: "100px";
-        min-zoom: 100;
+.parallax-container {
+     height: "100px";
+ 
       }
+nav {
+    background-color: white;
+    text-emphasis-color: black;
+}
+footer {
+    background-color: white;
+}
