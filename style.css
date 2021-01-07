@@ -1,7 +1,10 @@
 nav {
     background-color: white;
-    text-decoration-style: double;
 }
 footer {
     background-color: white;
+}
+.container {
+    text-align: center;
+    font-size: large;
 }
