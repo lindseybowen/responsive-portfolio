@@ -14,7 +14,7 @@
 
     <body>
       <nav>
-        <div class="nav-wrapper">
+        <div class="nav-wrapper" style="background: lightblue;">
           <a href="index.html" class="brand-logo center" style="color: black;">Lindsey J. Bowen</a>
           <ul id="nav-mobile" class="right hide-on-med-and-down">
             <li><a href="portfolio.html" style="color: black;">Portfolio</a></li>
@@ -26,6 +26,40 @@
           </ul>
         </div>
       </nav> 
+    </header>
+    <div id="main-container" class="container">
+      
+        <section class="main">
+            
+            <h1>Contact</h1>
+            
+            <form id="contact-form">
+                <ul>
+                   
+                    <li>
+                        <label for="name">Name</label>
+                        <input type="text" name="name" id="name" placeholder="You Name" required="required">
+                    </li>
+                   
+                    <li>
+                        <label for="email">Email</label>
+                        <input type="text" name="email" id="email" placeholder="yourname@me.com" required="required">
+                    </li>
+                    
+                    <li>
+                        <label for="message">Message</label>
+                        <textarea id="message" name="message" required="required">
+                        </textarea>
+                        
+                    </li>
+                    <input type="submit" name="submit">
+                </ul>
+
+            </form>
+
+           
+        </section>
+    </div>
     
       <!--Import jQuery before materialize.js-->
       <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
