@@ -8,6 +8,6 @@ For this project, I created a website using HTML and Materlaize. On this website
 ## Screen Shots 
 ![](images/Main.png)
 ![](images/About.png)
-![](images/Portfolio)
+![](images/Portfolio.png)
 
 
