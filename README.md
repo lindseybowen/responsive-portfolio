@@ -6,8 +6,8 @@ For this project, I created a website using HTML and Materlaize. On this website
 * [Deployed GitHub IO](https://lindseybowen.github.io/responsive-portfolio/)
 
 ## Screen Shots 
-* ![](images/Main.png)
-* ![](images/About.png)
-* ![](images/Portfolio)
+![](images/Main.png)
+![](images/About.png)
+![](images/Portfolio)
 
 
