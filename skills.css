@@ -1,33 +1,7 @@
 
-
 * {
   box-sizing: border-box;
   scroll-behavior: smooth;
-}
-
-body {
-  font-family: "Varela", sans-serif;
-}
-
-a {
-  color: rgba(0, 0, 0, 0.9);
-  text-decoration: none;
-  background-color: transparent;
-  padding: 10px;
-}
-
-.alert {
-  position: relative;
-}
-
-#backend {
-  padding-top: 15px;
-}
-
-.card {
-  display: flex;
-  flex-direction: column;
-  min-width: 0;
 }
 
 .container {
@@ -62,13 +36,6 @@ img.project1-screenshot {
   height: 100vh;
 }
 
-.navbar-light .navbar-text a {
-  color: rgba(0, 0, 0, 0.9);
-}
-
-.navbar {
-  position: sticky;
-}
 
 #other {
   padding-top: 15px;
